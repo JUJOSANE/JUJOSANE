@@ -3,20 +3,16 @@
   <img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2N2cDN0cG0zN2xub3U5NHF6OHI5OXAwamRjZjNxdTV4Z2xuY3BhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UpSpEerkqIykFlIWPq/giphy.gif" alt ="Programacion" width = "300"/>
 </div>
 
-<div align="center" width="50">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRqaGptcjhpem5hbW9mc3VxNHU0amo1NWo5czBoM3BtMDY4eTdleSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lQDdDwdZpfYRn1MsJy/giphy.gif" alt="Welcome!" width="300"/>
-
-
-
-</div>
-
 <div align="center">
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
 or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
+
+<div align="center" width="50">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRqaGptcjhpem5hbW9mc3VxNHU0amo1NWo5czBoM3BtMDY4eTdleSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lQDdDwdZpfYRn1MsJy/giphy.gif" alt="Welcome!" width="300"/>
+</div>
 
 <i>Happy Coding!</i> 😊
 
