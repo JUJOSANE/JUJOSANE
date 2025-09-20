@@ -1,10 +1,13 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Bienvenidos <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+  <img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2N2cDN0cG0zN2xub3U5NHF6OHI5OXAwamRjZjNxdTV4Z2xuY3BhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UpSpEerkqIykFlIWPq/giphy.gif" alt ="Programacion" width = "300"/>
 </div>
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRqaGptcjhpem5hbW9mc3VxNHU0amo1NWo5czBoM3BtMDY4eTdleSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lQDdDwdZpfYRn1MsJy/giphy.gif" alt="Welcome!" width="300"/>
+
+
 
 </div>
 
