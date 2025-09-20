@@ -2,7 +2,7 @@
 <h2> Bienvenidos, Soy Jujosane <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
   
   <a href="https://github.com/Jujosane">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45" alt ="Programacion" width = "300"/>>
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45" alt ="Programacion" width = "300"/>
 	</a> 
 </div>
 
@@ -26,19 +26,6 @@ Pregúntame lo que quieras aquí o escríbeme. <a href="https://github.com/ABSph
 
 </br>
 </br>
-
-<i>Sigueme en:</i><br>
-<p align="center">
-  <a href="https://www.facebook.com/share/16yV6evUuY/?mibextid=wwXIfr" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/sanchez_j04?igsh=Y245N2l6N3VwczBw&utm_source=qr" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
- <hr>
- <br>
-</p>
-</div>
 <h3 align="Center">Lenguajes En Desarrollo, Tools Extras</h3>
 <p align="center"> 
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
@@ -55,6 +42,8 @@ Pregúntame lo que quieras aquí o escríbeme. <a href="https://github.com/ABSph
 	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
       height="40" /> </a>
+	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="gitHub" width="40" height="40"/> </a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> </a>
@@ -79,6 +68,20 @@ Pregúntame lo que quieras aquí o escríbeme. <a href="https://github.com/ABSph
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a>  </p>
+
+<i>Sigueme en:</i><br>
+<p align="center">
+  <a href="https://www.facebook.com/share/16yV6evUuY/?mibextid=wwXIfr" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/sanchez_j04?igsh=Y245N2l6N3VwczBw&utm_source=qr" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+ <hr>
+ <br>
+</p>
+</div>
+
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
 
