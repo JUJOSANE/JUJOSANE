@@ -14,18 +14,15 @@ Pregúntame lo que quieras aquí o escríbeme. <a href="https://github.com/ABSph
 <div align="center" width="50">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRqaGptcjhpem5hbW9mc3VxNHU0amo1NWo5czBoM3BtMDY4eTdleSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lQDdDwdZpfYRn1MsJy/giphy.gif" alt="Welcome!" width="300"/>
 </div>
-
-<hr>
-<h5>Estados</h5> 😊
-
 </div>
 
+<hr>
 <div align="center">
-
+<h3 align="Center">Estados: </h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
-</br>
-</br>
+ <hr>
+ <br>
 <h3 align="Center">Lenguajes En Desarrollo, Tools Extras</h3>
 <p align="center"> 
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
@@ -69,6 +66,8 @@ Pregúntame lo que quieras aquí o escríbeme. <a href="https://github.com/ABSph
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a>  </p>
 
+ <hr>
+ <br>
 <i>Sigueme en:</i><br>
 <p align="center">
   <a href="https://www.facebook.com/share/16yV6evUuY/?mibextid=wwXIfr" target="blank"><img align="center"
@@ -77,8 +76,7 @@ Pregúntame lo que quieras aquí o escríbeme. <a href="https://github.com/ABSph
   <a href="https://www.instagram.com/sanchez_j04?igsh=Y245N2l6N3VwczBw&utm_source=qr" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
- <hr>
- <br>
+
 </p>
 </div>
 
@@ -100,7 +98,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
------
-Credits: [ABSphreak](https://github.com/ABSphreak)
 
-Last Edited on: 30/08/2020
