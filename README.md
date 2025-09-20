@@ -8,9 +8,10 @@
 
 <div align="center">
 
-Si crees que algo podría mejorarse, no dudes en clonar o bifurcar proyectos, plantear problemas y enviar solicitudes de colaboración. <br>
+Si crees que algo podría mejorarse, no dudes en clonar o bifurcar proyectos,<br> plantear problemas y enviar solicitudes de colaboración. <br>
 Pregúntame lo que quieras aquí o escríbeme. <a href="https://github.com/ABSphreak/ABSphreak/issues/new"></a><a href="mailto:jujosane888@gmail.com"><b>Correo</b></a>
 
+<br>
 <div align="center" width="50">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRqaGptcjhpem5hbW9mc3VxNHU0amo1NWo5czBoM3BtMDY4eTdleSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lQDdDwdZpfYRn1MsJy/giphy.gif" alt="Welcome!" width="300"/>
 </div>
